@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(230, 226, 234);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 36px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #272044;
+    text-align: center;
+}
+.storage{
+    margin: 120px auto;
+    max-width: 600px;
+    background-color: #a5a3ac;
+}
+header{
+    margin-bottom: 30px;
+}
+a{
+    color: #885dfe;
+}
+form{
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+    margin-bottom: 30px;
+}
+
+.question{
+    padding: 16px;
+    border: 1px solid gray;
+    width: 80%;
+    font-size: 20px;
+    border-radius: 50px;
+    line-height: 20px;
+    color: #272044;
+}
+.submit{
+    margin-left: 10px;
+    background-color: #885dfe;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 14px 24px;
+    width: 150px;
+    font-size: 20px;
+}
+.poem{
+    font-size: 20px;
+    background-color: #fff;
+    padding: 20px;
+    line-height: 2px;
+    border-left: 3px solid #885dfe;
+    box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 30px;
+    
+}
